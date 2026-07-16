@@ -57,6 +57,28 @@ profile = {
 
 <div align="center">
 
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
+![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=for-the-badge&logo=sqlite&logoColor=C084FC)
+![R](https://img.shields.io/badge/R-0f0f0f?style=for-the-badge&logo=r&logoColor=C084FC)
+
+**Data Analysis & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-0f0f0f?style=for-the-badge&logo=pandas&logoColor=C084FC)
+![NumPy](https://img.shields.io/badge/NumPy-0f0f0f?style=for-the-badge&logo=numpy&logoColor=C084FC)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0f0f?style=for-the-badge&logo=scikit-learn&logoColor=C084FC)
+![XGBoost](https://img.shields.io/badge/XGBoost-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
+![SHAP](https://img.shields.io/badge/SHAP-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
+![Imbalanced-Learn](https://img.shields.io/badge/Imbalanced--Learn-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=C084FC)
+![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=for-the-badge&logo=nextdotjs&logoColor=C084FC)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0f0f0f?style=for-the-badge&logo=tailwindcss&logoColor=C084FC)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0f0f?style=for-the-badge&logo=fastapi&logoColor=C084FC)
+
 **Analysis & Modelling**
 
 ![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
@@ -69,13 +91,7 @@ profile = {
 
 ![Plotly](https://img.shields.io/badge/Plotly-0f0f0f?style=for-the-badge&logo=plotly&logoColor=C084FC)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0f0f0f?style=for-the-badge&logo=streamlit&logoColor=C084FC)
-![Power BI](https://img.shields.io/badge/Power%20BI-0f0f0f?style=for-the-badge&logo=powerbi&logoColor=f4a261)
-
-**Data Sources**
-
-![NPCI](https://img.shields.io/badge/NPCI%20Data-0f0f0f?style=for-the-badge&logoColor=C084FC)
-![RBI](https://img.shields.io/badge/RBI%20Data-0f0f0f?style=for-the-badge&logoColor=C084FC)
-![World Bank](https://img.shields.io/badge/World%20Bank%20API-0f0f0f?style=for-the-badge&logoColor=C084FC)
+![Power BI](https://img.shields.io/badge/Power%20BI-0f0f0f?style=for-the-badge&logo=powerbi&logoColor=C084FC)
 
 </div>
 
@@ -83,17 +99,8 @@ profile = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0B0B12&title_color=A855F7&text_color=ffffff&border_color=312E81&icon_color=C084FC" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0B0B12&title_color=A855F7&text_color=ffffff&border_color=312E81" />
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:youremail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/parvatiiyer)
+[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:parvatiiyer2007@email.com)
 
 *"Every chart answers one question. I write the question first."*
 
