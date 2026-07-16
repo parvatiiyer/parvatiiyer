@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:2a9d8f&height=200&section=header&text=Parvati%20Iyer&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20B.Tech%20Student%20%7C%20Mumbai&descAlignY=68&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:3B1E70,100:8B5CF6&height=200&section=header&text=Parvati%20Iyer&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20B.Tech%20Student%20%7C%20Mumbai&descAlignY=68&descAlign=50" />
 </div>
 
 <div align="center">
@@ -7,6 +7,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+<img src="assets/dashboard.gif" alt="Dashboard Demo"/>
+
+</div>
 
 <table>
 <tr>
@@ -53,23 +59,23 @@ profile = {
 
 **Analysis & Modelling**
 
-![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=2a9d8f)
-![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=for-the-badge&logo=sqlite&logoColor=2a9d8f)
-![Pandas](https://img.shields.io/badge/Pandas-0f0f0f?style=for-the-badge&logo=pandas&logoColor=2a9d8f)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0f0f?style=for-the-badge&logo=scikit-learn&logoColor=2a9d8f)
-![XGBoost](https://img.shields.io/badge/XGBoost-0f0f0f?style=for-the-badge&logo=python&logoColor=2a9d8f)
+![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
+![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=for-the-badge&logo=sqlite&logoColor=C084FC)
+![Pandas](https://img.shields.io/badge/Pandas-0f0f0f?style=for-the-badge&logo=pandas&logoColor=C084FC)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0f0f?style=for-the-badge&logo=scikit-learn&logoColor=C084FC)
+![XGBoost](https://img.shields.io/badge/XGBoost-0f0f0f?style=for-the-badge&logo=python&logoColor=C084FC)
 
 **Visualisation & Dashboards**
 
-![Plotly](https://img.shields.io/badge/Plotly-0f0f0f?style=for-the-badge&logo=plotly&logoColor=2a9d8f)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f0f0f?style=for-the-badge&logo=streamlit&logoColor=2a9d8f)
+![Plotly](https://img.shields.io/badge/Plotly-0f0f0f?style=for-the-badge&logo=plotly&logoColor=C084FC)
+![Streamlit](https://img.shields.io/badge/Streamlit-0f0f0f?style=for-the-badge&logo=streamlit&logoColor=C084FC)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0f0f0f?style=for-the-badge&logo=powerbi&logoColor=f4a261)
 
 **Data Sources**
 
-![NPCI](https://img.shields.io/badge/NPCI%20Data-0f0f0f?style=for-the-badge&logoColor=2a9d8f)
-![RBI](https://img.shields.io/badge/RBI%20Data-0f0f0f?style=for-the-badge&logoColor=2a9d8f)
-![World Bank](https://img.shields.io/badge/World%20Bank%20API-0f0f0f?style=for-the-badge&logoColor=2a9d8f)
+![NPCI](https://img.shields.io/badge/NPCI%20Data-0f0f0f?style=for-the-badge&logoColor=C084FC)
+![RBI](https://img.shields.io/badge/RBI%20Data-0f0f0f?style=for-the-badge&logoColor=C084FC)
+![World Bank](https://img.shields.io/badge/World%20Bank%20API-0f0f0f?style=for-the-badge&logoColor=C084FC)
 
 </div>
 
@@ -77,8 +83,8 @@ profile = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=2a9d8f&text_color=ffffff&border_color=2a2a2a&icon_color=2a9d8f" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0f0f0f&title_color=2a9d8f&text_color=ffffff&border_color=2a2a2a" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=0B0B12&title_color=A855F7&text_color=ffffff&border_color=312E81&icon_color=C084FC" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=0B0B12&title_color=A855F7&text_color=ffffff&border_color=312E81" />
 
 </div>
 
@@ -86,13 +92,13 @@ profile = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=2a9d8f)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=2a9d8f)](mailto:youremail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:youremail@email.com)
 
 *"Every chart answers one question. I write the question first."*
 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a9d8f,100:0f0f0f&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0B0B12&height=100&section=footer"/>
 </div>
