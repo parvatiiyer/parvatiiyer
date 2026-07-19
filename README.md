@@ -1,14 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:3B1E70,100:8B5CF6&height=200&section=header&text=Parvati%20Iyer&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20B.Tech%20Student%20%7C%20Mumbai&descAlignY=68&descAlign=50" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+data+projects+that+answer+real+business+questions;Banking+%7C+Credit+Risk+%7C+Payments+%7C+Indian+Financial+Markets;From+raw+data+to+decisions+that+matter" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
   <img src="assets/dashboard.gif" alt="Dashboard Demo" width="100%" />
 </div>
 
@@ -37,10 +27,9 @@ B.Tech student building an analytics portfolio focused on Indian banking and fin
 profile = {
     "name": "Parvati Iyer",
     "degree": "B.Tech (in progress)",
-    "focus": "Data Analytics for Banking",
     "interests": [
-        "Credit Risk",
-        "Payments",
+        "Web",
+        "AI",
         "Financial Analytics"
     ],
     "tools": {
@@ -49,7 +38,7 @@ profile = {
         "machine_learning": ["XGBoost", "SHAP"],
         "data_sources": ["NPCI", "RBI", "World Bank API"]
     },
-    "open_to": "Banking • FinTech • Strategy"
+    "open_to": "Banking • FinTech • AI"
 }
 ```
 
@@ -125,8 +114,4 @@ profile = {
 
 > *"Every chart answers one question. I write the question first."*
 
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0B0B12&height=100&section=footer"/>
 </div>
